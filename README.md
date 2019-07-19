@@ -24,11 +24,13 @@ Friday : Peer-to-peer whiteboarding sessions
 
 ## Assignments
 
-- 7/16: Read intro material on hash tables [here](https://leetcode.com/explore/learn/card/hash-table/)
-  **Due 7/17.**
-- 7/17: You'll be emailed one of two problems. Solve the problem
-  you're given in preparation for p2p whiteboarding. **Due 7/19.**
-- 7/19: Finish reading intro material on hash tables if you haven't
-  already, and complete the 1st two problems in the leetcode hash
-  tables lessons: implement a hash set, and implement a hash map.
-  **Due 7/22.**
+1. 07/16 (Tue): Read intro material on hash tables
+   [here](https://leetcode.com/explore/learn/card/hash-table/) **Due
+   7/17.**
+2. 07/17 (Wed): You'll be emailed one of two problems. Solve the
+   problem you're given in preparation for p2p whiteboarding. **Due
+   7/19.**
+3. 07/19 (Fri): Finish reading intro material on hash tables if you
+   haven't already, and complete the 1st two problems in the leetcode
+   hash tables lessons: implement a hash set, and implement a hash
+   map.  **Due 7/22.**
