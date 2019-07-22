@@ -46,3 +46,7 @@ placed in `cs/week2/day1/hash-implementations`
    haven't already, and complete the 1st two problems in the leetcode
    hash tables lessons: implement a hash set, and implement a hash
    map.  **Due 7/22.** `hash-implementations`
+4. 07/22 (Mon): Solve [this
+   problem](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1105/)
+   on leetcode. Remember to submit the solution on your private
+   repository. **Due 7/23.** `intersection-of-sets`
