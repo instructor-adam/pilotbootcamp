@@ -24,6 +24,11 @@ Friday : Peer-to-peer whiteboarding sessions
 
 ---
 
+## Stuff From Class
+
+If you'd like to review the solution to a problem we did in class,
+they are posted organized by week and day in the `classwork` folder.
+
 ## Assignments
 
 Each assignment has the following format:
