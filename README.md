@@ -59,7 +59,7 @@ placed in `cs/week2/day1/hash-implementations`
     - Solve [contains duplicate
       ii](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1121/)
       on leetcode. We missed it in class, so I'm assigning it as
-      homework. Due 7/26. `contains-duplicate-ii`.
+      homework. **Due 7/26.** `contains-duplicate-ii`.
     - Solve [this
       problem](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1124/)
       on leetcode. Do your best, I'm intentionally giving you a harder
