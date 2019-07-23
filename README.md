@@ -53,5 +53,30 @@ placed in `cs/week2/day1/hash-implementations`
    map.  **Due 7/22.** `hash-implementations`
 4. 07/22 (Mon): Solve [this
    problem](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1105/)
-   on leetcode. Remember to submit the solution on your private
+   on leetcode. Remember to submit the solution on your personal
    repository. **Due 7/23.** `intersection-of-sets`
+5. 07/23 (Tue): 
+    - Solve [contains duplicate
+      ii](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1121/)
+      on leetcode. We missed it in class, so I'm assigning it as
+      homework. Due 7/26. `contains-duplicate-ii`.
+    - Solve [this
+      problem](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1124/)
+      on leetcode. Do your best, I'm intentionally giving you a harder
+      problem. *Don't force yourself to spend longer than two hours on
+      this problem.* If you solve it, post your program on your
+      repository; if not, please post a text file containing a
+      description of the approach you thought of, and whatever part of
+      a program you wrote if you wrote one. We will go over this in
+      class on 7/24. **Due 7/24.** `group-anagrams`.
+    - Read the [lists review
+      packet](https://drive.google.com/open?id=1Ro83seOpzj7Yz4gcWz84qxg3CGhiArT8uB_xB9onZO0)
+      and solve the following problem: given an array of numbers,
+      `arr`, and a number from the array a number `k`, return the kth
+      smallest number from `arr`. Another name for `k` is a number's
+      *rank* in an array. A number has rank `k` if there are `k` many
+      numbers in the array that are less than or equal to it. Another
+      way of thinking about the rank of a number is the number's
+      position in the sorted version of the array (if the array has no
+      duplicates). Assume that your input will not have duplicates.
+      **Due 7/25.** `kth-smallest`.
