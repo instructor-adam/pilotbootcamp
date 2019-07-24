@@ -39,7 +39,19 @@ For any assignment where I ask you to solve a problem, please post
 your solution in your github using the path
 `cs/week#/day#/assignment-name`, where the week and day correspond to
 the *due date* of the assignment. For example, assignment 3 would be
-placed in `cs/week2/day1/hash-implementations`
+placed in `cs/week2/day1/hash-implementations`. **If you are not able
+to solve the problem at home** then post up a text file containing the
+following:
+
+- a description of the approach(s) you thought of
+- a description of where you got stuck on these approaches. For
+  example:
+    - Was there a flaw in the approach you found and you had to think
+      of a new one? What was the flaw? How did you try to get around
+      it?
+    - Were you just unable to implement the approach? Which part(s)
+      were you unable to implement, and why?
+- whatever part of a program you wrote if you wrote one
 
 1. 07/16 (Tue): Read intro material on hash tables
    [here](https://leetcode.com/explore/learn/card/hash-table/) **Due
@@ -55,28 +67,31 @@ placed in `cs/week2/day1/hash-implementations`
    problem](https://leetcode.com/explore/learn/card/hash-table/183/combination-with-other-algorithms/1105/)
    on leetcode. Remember to submit the solution on your personal
    repository. **Due 7/23.** `intersection-of-sets`
-5. 07/23 (Tue): 
-    - Solve [contains duplicate
-      ii](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1121/)
-      on leetcode. We missed it in class, so I'm assigning it as
-      homework. **Due 7/26.** `contains-duplicate-ii`.
-    - Solve [this
-      problem](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1124/)
-      on leetcode. Do your best, I'm intentionally giving you a harder
-      problem. *Don't force yourself to spend longer than two hours on
-      this problem.* If you solve it, post your program on your
-      repository; if not, please post a text file containing a
-      description of the approach you thought of, and whatever part of
-      a program you wrote if you wrote one. We will go over this in
-      class on 7/24. **Due 7/24.** `group-anagrams`.
-    - Read the [lists review
-      packet](https://drive.google.com/open?id=1Ro83seOpzj7Yz4gcWz84qxg3CGhiArT8uB_xB9onZO0)
-      and solve the following problem: given an array of numbers,
-      `arr`, and a number from the array a number `k`, return the kth
-      smallest number from `arr`. Another name for `k` is a number's
-      *rank* in an array. A number has rank `k` if there are `k` many
-      numbers in the array that are less than or equal to it. Another
-      way of thinking about the rank of a number is the number's
-      position in the sorted version of the array (if the array has no
-      duplicates). Assume that your input will not have duplicates.
-      **Due 7/25.** `kth-smallest`.
+5. 07/23 (Tue): Solve [this
+   problem](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1124/)
+   on leetcode. Do your best, I'm intentionally giving you a harder
+   problem. *Don't force yourself to spend longer than two hours on
+   this problem.* If you solve it, post your program on your
+   repository; if not, please post a text file containing a
+   description of the approach you thought of, and whatever part of a
+   program you wrote if you wrote one. We will go over this in class
+   on 7/24. **Due 7/24.** `group-anagrams`.
+6. 07/23 (Tue): Read the [lists review
+   packet](https://drive.google.com/open?id=1Ro83seOpzj7Yz4gcWz84qxg3CGhiArT8uB_xB9onZO0)
+   and solve the following problem: given an array of numbers, `arr`,
+   and a number from the array a number `k`, return the kth smallest
+   number from `arr`. Another name for `k` is a number's *rank* in an
+   array. A number has rank `k` if there are `k` many numbers in the
+   array that are less than or equal to it. Another way of thinking
+   about the rank of a number is the number's position in the sorted
+   version of the array (if the array has no duplicates). Assume that
+   your input will not have duplicates.  **Due 7/25.** `kth-smallest`.
+7. 07/23 (Tue): Solve [contains duplicate
+   ii](https://leetcode.com/explore/learn/card/hash-table/184/comparison-with-other-data-structures/1121/)
+   on leetcode. We missed it in class, so I'm assigning it as
+   homework. **Due 7/26.** `contains-duplicate-ii`.
+8. 07/24 (Wed): Solve [find duplicate
+   subtrees](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1127/)
+   on LC and post your solution on github. **Due 7/29.**
+   `duplicate-subtrees`.
+
