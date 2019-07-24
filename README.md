@@ -39,9 +39,12 @@ For any assignment where I ask you to solve a problem, please post
 your solution in your github using the path
 `cs/week#/day#/assignment-name`, where the week and day correspond to
 the *due date* of the assignment. For example, assignment 3 would be
-placed in `cs/week2/day1/hash-implementations`. **If you are not able
-to solve the problem at home** then post up a text file containing the
-following:
+placed in `cs/week2/day1/hash-implementations`. 
+
+### What if the problem is too hard?
+
+If you are not able to solve the problem at home then post up a
+text file containing the following:
 
 - a description of the approach(s) you thought of
 - a description of where you got stuck on these approaches. For
@@ -52,6 +55,8 @@ following:
     - Were you just unable to implement the approach? Which part(s)
       were you unable to implement, and why?
 - whatever part of a program you wrote if you wrote one
+
+### Assignment Schedule
 
 1. 07/16 (Tue): Read intro material on hash tables
    [here](https://leetcode.com/explore/learn/card/hash-table/) **Due
