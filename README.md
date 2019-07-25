@@ -99,4 +99,6 @@ text file containing the following:
    subtrees](https://leetcode.com/explore/learn/card/hash-table/185/hash_table_design_the_key/1127/)
    on LC and post your solution on github. **Due 7/29.**
    `duplicate-subtrees`.
-
+9. 07/25 (Thu): Write a function to insert a range of entries from one
+   array into another array. This is a HackerRank problem. **Due
+   7/29.** `insert-range`.
