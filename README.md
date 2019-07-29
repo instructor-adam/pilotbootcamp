@@ -35,6 +35,9 @@ Each assignment has the following format:
 
 Date given: description. Due date. Assignment name.
 
+The due date means before class on that date. So if a homework is due
+on 7/17, then it is due before 230PM on 7/17.
+
 For any assignment where I ask you to solve a problem, please post
 your solution in your github using the path
 `cs/week#/day#/assignment-name`, where the week and day correspond to
@@ -102,3 +105,5 @@ text file containing the following:
 9. 07/25 (Thu): Write a function to insert a range of entries from one
    array into another array. This is a HackerRank problem. **Due
    7/29.** `insert-range`.
+10. 07/29 (Mon): Implement dutch national flag partitioning, but for a
+    linked list. Solve it on HR. **Due 7/30.** `linked-list-pivoting`.
