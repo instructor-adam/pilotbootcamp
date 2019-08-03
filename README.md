@@ -114,3 +114,5 @@ text file containing the following:
     a hackerrank test containing your questions. Complete them by
     Friday. Half the class will get one set of questions, the other
     half will get another set of questions. **Due 8/2.** `ab-problems`.
+13. 08/02 (Fri): Test if a string contains balanced brackets. You'll
+    get an invitation to a HR test. **Due 8/5.** `balanced-brackets`.
