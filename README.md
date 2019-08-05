@@ -116,3 +116,7 @@ text file containing the following:
     half will get another set of questions. **Due 8/2.** `ab-problems`.
 13. 08/02 (Fri): Test if a string contains balanced brackets. You'll
     get an invitation to a HR test. **Due 8/5.** `balanced-brackets`.
+14. 08/05 (Mon): Solve [number of recent
+    calls](https://leetcode.com/problems/number-of-recent-calls/) on
+    LC and post up your solution on your github. **Due 08/06.**
+    `number-of-recent-calls`.
