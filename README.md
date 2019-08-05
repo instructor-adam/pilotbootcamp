@@ -107,9 +107,10 @@ text file containing the following:
    7/29.** `insert-range`.
 10. 07/29 (Mon): Implement dutch national flag partitioning, but for a
     linked list. Solve it on HR. **Due 7/30.** `linked-list-pivoting`.
-11. 07/30 (Tue): Read the [stacks and queues review packet]() and
-    solve stacks and queues pre-work question on hackerrank. **Due 8/01.**
-    `stacks+queues-pre-work`.
+11. 07/30 (Tue): Read the [stacks and queues review
+    packet](https://drive.google.com/open?id=1MN29NToPCiKZy2_Sg_A7xuR2_BbKaIv-zXEGEkzpc6g)
+    and solve stacks and queues pre-work question on hackerrank. **Due
+    8/01.** `stacks+queues-pre-work`.
 12. 07/30 (Tue): p2p problems for this friday! You will be invited to
     a hackerrank test containing your questions. Complete them by
     Friday. Half the class will get one set of questions, the other
