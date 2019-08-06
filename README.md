@@ -121,3 +121,8 @@ text file containing the following:
     calls](https://leetcode.com/problems/number-of-recent-calls/) on
     LC and post up your solution on your github. **Due 08/06.**
     `number-of-recent-calls`.
+15. 08/06 (Tue): Read the [trees review
+    packet](https://drive.google.com/open?id=1vBekVZN96dBcfO0kAJ38RBZ9LuwsRYW6Ya01PxbetoA). **Due 08/07.** 
+16. 08/06 (Tue): Finish the
+    [mini-parser](https://leetcode.com/problems/mini-parser/) on
+    leetcode. **Due 08/07.** `mini-parser`.
