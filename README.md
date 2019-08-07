@@ -127,7 +127,7 @@ text file containing the following:
     [mini-parser](https://leetcode.com/problems/mini-parser/) on
     leetcode. **Due 08/07.** `mini-parser`.
 17. 08/07 (Wed): Finish [range sum BST](https://leetcode.com/problems/range-sum-of-bst/)
-    on leetcode. Remember to post your code on your repo. **Due 8/8.**
+    on leetcode. Remember to post your code on your repo. **Due 8/12.**
     `range-sum-bst`.
 18. 08/07 (Wed): You have one a/b problem for the week. For those with
     a leetcode problem, remember to post up your solns on your github.
