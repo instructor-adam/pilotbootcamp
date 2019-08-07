@@ -126,3 +126,6 @@ text file containing the following:
 16. 08/06 (Tue): Finish the
     [mini-parser](https://leetcode.com/problems/mini-parser/) on
     leetcode. **Due 08/07.** `mini-parser`.
+17. 08/07 (Wed): Finish [range sum BST](https://leetcode.com/problems/range-sum-of-bst/)
+    on leetcode. Remember to post your code on your repo. **Due 8/8.**
+    `range-sum-bst`.
