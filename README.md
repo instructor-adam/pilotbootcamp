@@ -132,3 +132,12 @@ text file containing the following:
 18. 08/07 (Wed): You have one a/b problem for the week. For those with
     a leetcode problem, remember to post up your solns on your github.
     **Due 8/9.** `ab-problem`.
+19. 08/12 (Mon): Recursion pre-work. Read [recursion slides part
+    1](https://drive.google.com/open?id=137-FK-Y2DYqpTkSb5yHm8wHoVEPQ8bh2). Just reading. **Due 8/14.**
+20. 08/12 (Mon): Do [same
+    tree](https://leetcode.com/problems/same-tree/) on LC. **Due 8/13.**
+    `same tree`.
+21. 08/12 (Mon): You have two a/b problems for the week. For those a
+    leetcode problem, remember to post up your solns on your github.
+    I will post solutions for each group _Thursday after class_, so
+    this is due Thursday. **Due 8/15.** `ab-problem`.
